@@ -12,11 +12,6 @@ venv/
 .venv/
 env/
 
-# Generated Output Files
-*_raw_data.md
-*_final_report.md
-*_Business_Plan.docx
-
 # OS Junk
 .DS_Store
 Thumbs.db
