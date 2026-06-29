@@ -1,0 +1,26 @@
+# Environment Variables (NEVER push this)
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Generated Output Files
+*_raw_data.md
+*_final_report.md
+*_Business_Plan.docx
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
